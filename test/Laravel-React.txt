@@ -1,0 +1,4 @@
+https://dev.to/lvtdeveloper/using-react-in-a-laravel-application-8fp
+Comando para asignar el archivo vue.js por defecto a react.js: php artisan preset react
+$ npm install to install all the javascript packages necessary for our project. This generate a node_modules directory
+$ php artisan serve
